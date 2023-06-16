@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "86299a3950a0001b055f94aa75e07a336c3ec5f869a5270d62e637a9259e1261"
+            "sha256": "f78470e9e3fc7606e04e54c12b62a52a0d05bf50f9234fa6f4bbde3901ed5ac3"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -24,6 +24,14 @@
             "index": "pypi",
             "version": "==3.7.2"
         },
+        "dj-database-url": {
+            "hashes": [
+                "sha256:9c9e5f7224f62635a787e9cc3c6762c9be2b19541a21e3c08fa573bd01609b4b",
+                "sha256:a35a9f0f43775ca6f90d819dc456233ef7bcc76b47377d5d908b75c7eb320624"
+            ],
+            "index": "pypi",
+            "version": "==2.0.0"
+        },
         "django": {
             "hashes": [
                 "sha256:2a6b6fbff5b59dd07bef10bcb019bee2ea97a30b2a656d51346596724324badf",
@@ -31,6 +39,14 @@
             ],
             "index": "pypi",
             "version": "==4.2.2"
+        },
+        "django-ratelimit": {
+            "hashes": [
+                "sha256:19cba9e8101277f28c7a974c54c997067341ab30175431d3739e8ffb63cdd2b2",
+                "sha256:a610b5fd052c843a589084f6934bc6d827ec6242d5965110ebd436ca5a59ef39"
+            ],
+            "index": "pypi",
+            "version": "==4.0.0"
         },
         "django-spa": {
             "hashes": [
@@ -56,6 +72,13 @@
             "index": "pypi",
             "version": "==2023.3"
         },
+        "ratelimit": {
+            "hashes": [
+                "sha256:af8a9b64b821529aca09ebaf6d8d279100d766f19e90b5059ac6a718ca6dee42"
+            ],
+            "index": "pypi",
+            "version": "==2.2.1"
+        },
         "sqlparse": {
             "hashes": [
                 "sha256:5430a4fe2ac7d0f93e66f1efc6e1338a41884b7ddf2a350cedd20ccc4d9d28f3",
@@ -63,6 +86,14 @@
             ],
             "index": "pypi",
             "version": "==0.4.4"
+        },
+        "typing-extensions": {
+            "hashes": [
+                "sha256:88a4153d8505aabbb4e13aacb7c486c2b4a33ca3b3f807914a9b4c844c471c26",
+                "sha256:d91d5919357fe7f681a9f2b5b4cb2a5f1ef0a1e9f59c4d8ff0d3491e05c0ffd5"
+            ],
+            "index": "pypi",
+            "version": "==4.6.3"
         },
         "tzdata": {
             "hashes": [
